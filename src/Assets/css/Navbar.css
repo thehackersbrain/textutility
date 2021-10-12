@@ -1,0 +1,18 @@
+.navbar-nav {
+	margin-left: auto;
+}
+.nav-item {
+	margin-right: 0.6rem;
+	font-family: 'Montserrat';
+	font-weight: 500;
+}
+.nav-item-last {
+	margin-right: 1.5rem;
+}
+.navbar-brand {
+	font-family: 'Poppins';
+	font-weight: 700;
+}
+.menu-img {
+	margin-right: 0.5rem;
+}
